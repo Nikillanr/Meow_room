@@ -4,11 +4,9 @@
 
 ⚡️ 3d interactable Spline model\
 ⚡️ Downloadable\
-⚡️ Styled with CSS\
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Built on React Framework\
-⚡️ Primarily written on JSX
+⚡️Click on objects (switch, drawers, doors, etc)\
+⚡️Fully responsive\
+⚡️Primarily written on JSX\
 
 To view the demo: **[click here](https://meowsroom.netlify.app/)**
 
